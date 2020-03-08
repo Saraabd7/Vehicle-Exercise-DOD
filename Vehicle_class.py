@@ -1,13 +1,12 @@
-# define vehicle class here
+# Define vehicle class here
 
-#Characterists:
-# n_passangers
+#C haracterists:
+# n_passengers
 # size_cargo
 
-#methods :
+# Methods :
 # accelerate
 # break
-
 
 class Vehicle():
 

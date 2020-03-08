@@ -11,7 +11,19 @@
 #methods :
 # park
 # honk
+# import my vehicle class
 
+# define car class here and make it inherit from vehicle
+
+
+# Characterists:
+# brand
+# horse_power
+# max_speed
+
+# Methods:
+# park
+# honk
 
 from Vehicle_class import Vehicle
 
@@ -22,7 +34,7 @@ class Car(Vehicle):
         self.horse_power = horse_power
         self.max_speed = max_speed
 
-#methods :
+# methods :
 # park
 # honk
     def park(self):
