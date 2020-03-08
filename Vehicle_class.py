@@ -1,6 +1,6 @@
 # Define vehicle class here
 
-#C haracterists:
+# Characterists:
 # n_passengers
 # size_cargo
 

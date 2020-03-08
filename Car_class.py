@@ -13,10 +13,10 @@
 # honk
 # import my vehicle class
 
-# define car class here and make it inherit from vehicle
+# Define car class here and make it inherit from vehicle
 
 
-# Characterists:
+# characteristic:
 # brand
 # horse_power
 # max_speed
